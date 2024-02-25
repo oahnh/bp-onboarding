@@ -8,7 +8,7 @@ const data = {
     name: "Noah Hernandez",
     position: "Web Developer",
     description:
-      "This is my bio! I like to surf, hike, and climb! Currently studying Data Science @ UC Berkeley and trying to grow my ear for music",
+      "This description is being updated! See the pull request",
     email: "noahh_@berkeley.edu",
     imgPath: 'public/zzz.jpeg',
   };
