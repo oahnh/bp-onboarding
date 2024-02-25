@@ -1,0 +1,28 @@
+body {
+  max-width: 80%;
+  margin: auto;
+}
+
+.App {
+  display: flex; 
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: #89B6FA;
+}
+
+.box-1 {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  border: 10px solid black;
+  background-color: aquamarine;
+}
+
+.box-2 {
+  color: blueviolet;
+  border: 3px dotted blue;
+}
+
+

@@ -1,0 +1,28 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 300px;
+  height: 500px;
+  border-radius: 50px;
+  background-color: antiquewhite;
+}
+
+.pfp {
+  width: 60%;
+  justify-self: center;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.description {
+  margin: 32px 54px;
+}
+
+.personalInfo {
+  gap: 0px;
+
+  h4, p {
+    margin: 0px;
+  }
+}
